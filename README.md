@@ -1,1 +1,3 @@
 # interior-decor
+# colors 
+# designs
